@@ -1,0 +1,8 @@
+D:\ХНУРЭ\Курсач\Kursach\Debug\Kursach.vcxproj.AssemblyReference.cache
+D:\ХНУРЭ\Курсач\Kursach\Debug\Kursach.exe
+D:\ХНУРЭ\Курсач\Kursach\Debug\Kursach.MyForm.resources
+D:\ХНУРЭ\Курсач\Kursach\Debug\Kursach.vcxproj.GenerateResource.cache
+D:\ХНУРЭ\Курсач(С++)\Kursach\Debug\Kursach.vcxproj.AssemblyReference.cache
+D:\ХНУРЭ\Курсач(С++)\Kursach\Debug\Kursach.MyForm.resources
+D:\ХНУРЭ\Курсач(С++)\Kursach\Debug\Kursach.vcxproj.GenerateResource.cache
+D:\ХНУРЭ\Курсач(С++)\Kursach\Debug\Kursach.exe

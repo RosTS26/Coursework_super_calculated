@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+D:\ХНУРЭ\Курсач(С++)\Kursach\Function.h(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\Function.h(76,13): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\Function.h(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\Function.h(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\SimilarSlogans.h(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\SimilarSlogans.h(31,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\SimilarSlogans.h(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\SimilarSlogans.h(67,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ХНУРЭ\Курсач(С++)\Kursach\SimilarSlogans.h(99,20): warning C4018: <: несоответствие типов со знаком и без знака
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursach.vcxproj -> D:\ХНУРЭ\Курсач(С++)\Kursach\Debug\Kursach.exe
